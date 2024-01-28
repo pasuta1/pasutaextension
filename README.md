@@ -31,7 +31,7 @@ My Awesome Extension is a powerful tool that enhances your browsing experience i
 - **Is Our Extension free to use?**
   Yes, our Extension is completely free to use for all users.
 
-- **Is Our Awesome Extension free to use?**
+- **Is Our Extension safe?**
   Yes, you can check it at the screenshots or our website:"https://pasuta.000webhostapp.com/extension.html".
 - **Does Our Extension collect any personal data?**
   No, our Extension does not collect any personal data or browsing history.
