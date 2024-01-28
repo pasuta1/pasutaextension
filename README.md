@@ -15,8 +15,7 @@ My Awesome Extension is a powerful tool that enhances your browsing experience i
 3. Enable the developer mode.
 4. Drag the "pasutaextension3.0.1.zip" in the extenions.
 5. Congratulations! The extension is now installed.
-   Or wach the video
-![tutorial](https://streamable.com/xilam7)
+6.Or wach the video https://streamable.com/xilam7
 ## How to Use
 1. Once installed, you will see the extension icon in the browser toolbar.
 2. Click on the extension icon to open the main menu.
