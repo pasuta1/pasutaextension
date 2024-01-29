@@ -1,7 +1,7 @@
 # Our Extension
 
 ## Description
-My Awesome Extension is a powerful tool that enhances your browsing experience in Roblox.
+Our Extension is a powerful tool that enhances your browsing experience in Roblox.
 
 ## Features
 - Easy installation process
