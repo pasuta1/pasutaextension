@@ -13,7 +13,7 @@ Our Extension is a powerful tool that enhances your browsing experience in Roblo
 1. Open your web browser.
 2. Navigate to the extensions page.
 3. Enable the developer mode.
-4. Drag the "pasutaextension3.0.1.zip" in the extenions.
+4. Drag the "pasutaextension3.0.3.zip" in the extenions.
 5. Congratulations! The extension is now installed.
 6.Or wach the video https://streamable.com/xilam7
 ## How to Use
